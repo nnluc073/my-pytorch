@@ -1,7 +1,8 @@
-# my-pytorch
+# clone project
 > git clone https://github.com/nnluc073/my-pytorch.git
 > cd my-pytorch
 
+# clone pytorch
 > git clone --recursive https://github.com/pytorch/pytorch
 > cd pytorch
 
