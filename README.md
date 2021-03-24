@@ -14,4 +14,6 @@
 > git submodule update --init --recursive
 
 # build
+> cd ..
+
 > docker build -t mypytorch:0.0.2 .
